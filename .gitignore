@@ -1,0 +1,12 @@
+.gradle/
+.idea/
+local.properties
+
+My_App/.gradle/
+My_App/.idea/
+My_App/local.properties
+My_App/build/
+My_App/app/build/
+
+backend/node_modules/
+backend/.env
