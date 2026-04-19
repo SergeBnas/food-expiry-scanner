@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\drawable_bg_logo_circle.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\drawable\\bg_logo_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\drawable_bg_badge_warning.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\drawable\\bg_badge_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\layout_activity_add_edit_item.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\layout\\activity_add_edit_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\layout_activity_expiring_soon.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\layout\\activity_expiring_soon.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\layout_activity_insights.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\layout\\activity_insights.xml"
+    },
+    {
+        "merged": "com.example.foodexpiryscanner.app-debug-47:/layout_activity_scan.xml.flat",
+        "source": "com.example.foodexpiryscanner.app-main-49:/layout/activity_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\layout_item_inventory.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\layout\\item_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\drawable_bg_badge.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\drawable\\bg_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\color_bottom_nav_colors.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\color\\bottom_nav_colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\layout_activity_meal_suggestions.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\layout\\activity_meal_suggestions.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\layout_activity_scan.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\layout\\activity_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\layout_activity_library.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\layout\\activity_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\drawable_bg_nav.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\drawable\\bg_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-debug-47:\\drawable_bg_badge_danger.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\drawable\\bg_badge_danger.xml"
+    }
+]

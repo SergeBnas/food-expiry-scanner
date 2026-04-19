@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-mergeDebugResources-46:\\layout\\activity_add_edit_item.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\layout\\activity_add_edit_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-mergeDebugResources-46:\\layout\\activity_expiring_soon.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\layout\\activity_expiring_soon.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-mergeDebugResources-46:\\layout\\activity_library.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\layout\\activity_library.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-mergeDebugResources-46:\\layout\\activity_meal_suggestions.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\layout\\activity_meal_suggestions.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-mergeDebugResources-46:\\layout\\item_inventory.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\layout\\item_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-mergeDebugResources-46:\\layout\\activity_scan.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\layout\\activity_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-mergeDebugResources-46:\\layout\\activity_insights.xml",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.7\\com.example.foodexpiryscanner.app-main-49:\\layout\\activity_insights.xml"
+    },
+    {
+        "merged": "com.example.foodexpiryscanner.app-mergeDebugResources-46:/layout/activity_scan.xml",
+        "source": "com.example.foodexpiryscanner.app-main-49:/layout/activity_scan.xml"
+    }
+]
