@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home" android:icon="@android:drawable/ic_menu_view" android:title="@string/home" />
+    <item android:id="@+id/nav_library" android:icon="@android:drawable/ic_menu_agenda" android:title="@string/library" />
+    <item android:id="@+id/nav_expiring" android:icon="@android:drawable/ic_menu_recent_history" android:title="@string/soon" />
+    <item android:id="@+id/nav_insights" android:icon="@android:drawable/ic_menu_sort_by_size" android:title="@string/insights" />
+    <item android:id="@+id/nav_meals" android:icon="@android:drawable/ic_menu_crop" android:title="@string/meals" />
+</menu>
